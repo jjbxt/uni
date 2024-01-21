@@ -1,1 +1,1 @@
-My solutions for the weekly data structures and algorithms homework.
+Some code from projects/assignments/homework from my university courses.
